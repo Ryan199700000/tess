@@ -1,0 +1,104 @@
+
+[ Senin, 02 - 04 - 2018 | 14:12:14 ] Invalid mids
+[ Senin, 02 - 04 - 2018 | 14:23:23 ] 'song'
+[ Senin, 02 - 04 - 2018 | 14:23:58 ] HTTPConnectionPool(host='imgcache.wechat.com', port=80): Max retries exceeded with url: /music/joox/photo_id_en/mid_album_265/7/5/689cfc42a9d651c9b95361e28b5b1c75.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7fa93f8be7b8>: Failed to establish a new connection: [Errno -5] No address associated with hostname',))
+[ Senin, 02 - 04 - 2018 | 17:03:03 ] Invalid mids
+[ Selasa, 03 - 04 - 2018 | 01:09:31 ] Invalid mids
+[ Selasa, 03 - 04 - 2018 | 01:14:49 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 02:55:55 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 02:56:49 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 02:57:04 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 08:01:57 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 08:42:16 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 09:14:01 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 09:20:20 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 10:48:13 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 12:27:36 ] 'song'
+[ Rabu, 04 - 04 - 2018 | 12:49:18 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 14:08:51 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 14:08:51 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 15:33:19 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 16:11:52 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 16:35:25 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 17:01:27 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 17:29:23 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 17:31:41 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 18:12:09 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 18:12:19 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 18:58:59 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Rabu, 04 - 04 - 2018 | 19:40:04 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Rabu, 04 - 04 - 2018 | 19:43:31 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 19:51:20 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Rabu, 04 - 04 - 2018 | 19:54:53 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 20:24:23 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Rabu, 04 - 04 - 2018 | 20:45:11 ] 'NoneType' object has no attribute 'keys'
+[ Rabu, 04 - 04 - 2018 | 20:53:14 ] TalkException(reason='not a member', code=10, parameterMap={})
+[ Rabu, 04 - 04 - 2018 | 20:56:47 ] 'NoneType' object has no attribute 'keys'
+[ Rabu, 04 - 04 - 2018 | 20:56:51 ] 'NoneType' object has no attribute 'keys'
+[ Rabu, 04 - 04 - 2018 | 20:59:56 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 21:00:22 ] 'NoneType' object has no attribute 'keys'
+[ Rabu, 04 - 04 - 2018 | 21:03:58 ] 'NoneType' object has no attribute 'keys'
+[ Rabu, 04 - 04 - 2018 | 21:05:29 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 21:05:36 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 21:05:53 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 21:10:16 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 21:46:33 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 23:28:26 ] Invalid mids
+[ Rabu, 04 - 04 - 2018 | 23:35:57 ] Download object failure.
+[ Kamis, 05 - 04 - 2018 | 00:10:57 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 00:23:43 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 00:56:12 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 01:02:52 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 02:07:22 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 04:57:20 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 06:12:28 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 06:15:50 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 06:16:33 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 06:20:54 ] TalkException(code=0, parameterMap=None, reason='invalid groupId')
+[ Kamis, 05 - 04 - 2018 | 06:21:39 ] TalkException(code=0, parameterMap=None, reason='invalid groupId')
+[ Kamis, 05 - 04 - 2018 | 07:54:14 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 09:11:21 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 09:38:47 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 10:01:49 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 12:32:18 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 12:50:07 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 13:07:17 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 14:59:30 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 15:00:56 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 15:29:33 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 18:14:34 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 18:46:01 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 18:48:46 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 18:48:52 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 18:48:56 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 19:30:58 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 19:34:22 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 19:42:24 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 20:30:45 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 20:53:34 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 20:58:58 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 21:46:14 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Kamis, 05 - 04 - 2018 | 22:24:45 ] Invalid mids
+[ Kamis, 05 - 04 - 2018 | 23:30:06 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 01:06:22 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 01:06:25 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 01:06:27 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 01:06:32 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 01:06:35 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 05:59:09 ] Invalid mids
+[ Jumat, 06 - 04 - 2018 | 06:37:45 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 07:12:36 ] Invalid mids
+[ Jumat, 06 - 04 - 2018 | 16:03:23 ] Invalid mids
+[ Jumat, 06 - 04 - 2018 | 16:17:49 ] Invalid mids
+[ Jumat, 06 - 04 - 2018 | 16:34:10 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 21:18:44 ] Invalid mids
+[ Jumat, 06 - 04 - 2018 | 22:24:42 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Jumat, 06 - 04 - 2018 | 23:06:53 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 02:47:51 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 06:39:07 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 08:07:21 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 08:08:40 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 09:06:56 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 11:08:32 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 11:20:19 ] TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+[ Sabtu, 07 - 04 - 2018 | 12:09:44 ] Invalid mids
